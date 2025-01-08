@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1> Hello, I'm Hassan! 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [ Wireshark for beginners: Capture Packets] 
+
+<h2> 🔭 Certifications :</h2?>
+
+- [Google Cybersecurity Course] 
+- [Comptia Security+ CE]
+
+<h2> 📫 How to reach me:  :</h2>
+[Gmail]
+hassantahir18@gmail.com
+[Phone Number]
+571-419-0490
+
 
 <!--
-**hass09an/hass09an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
