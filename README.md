@@ -7,9 +7,8 @@
  
 <h2> 🔭 Certifications :</h2?>
 
-- [Google Cybersecurity Course] (
-- [Comptia Security+ CE]
- [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/18355762/CompTIA.Security%2B.ce.certificate.pdf)
+- [Google Cybersecurity Course]
+- [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/18355762/CompTIA.Security%2B.ce.certificate.pdf)
 
 <h2> 📫 How to reach me:  :</h2>
 [Gmail]
