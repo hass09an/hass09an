@@ -1,10 +1,11 @@
 <h1> Hello, I'm Hassan! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- Wireshark for beginners: Capture Packets
- - [Capture Packets] 
+
+- </b>Wireshark for beginners: Capture Packets</b>
+ - [Capture Packets](https://github.com/hass09an/CapturePacketLab.git)
+ 
+ 
 <h2> 🔭 Certifications :</h2?>
 
 - [Google Cybersecurity Course] (
