@@ -1,7 +1,7 @@
 <h1> Hello, I'm Hassan! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- [Wireshark for beginners: Capture Packets](https://github.com/hass09an/CapturePacketLab/blob/033036031d19bce63f33641d9787d4f4128b7158/README.md)
+- [Wireshark for beginners: Capture Packets]
 
 <h2> 🔭 Certifications :</h2?>
 
