@@ -1,14 +1,13 @@
 <h1> Hello, I'm Hassan! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Wireshark for beginners: Capture Packets](https://github.com/hass09an/CapturePacketLab/blob/033036031d19bce63f33641d9787d4f4128b7158/README.md)
 
 <h2> 🔭 Certifications :</h2?>
 
-- [Google Cybersecurity Course] 
+- [Google Cybersecurity Course] (
 - [Comptia Security+ CE]
+ [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/18355762/CompTIA.Security%2B.ce.certificate.pdf)
 
 <h2> 📫 How to reach me:  :</h2>
 [Gmail]
